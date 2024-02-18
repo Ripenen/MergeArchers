@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0e43dc576c4c64b412f954e113b280, type: 3}
+  m_Name: BootInstaller
+  m_EditorClassIdentifier: 
+  _prefabs: {fileID: 11400000, guid: 3ffaed2140830744b86d8007f8e17aef, type: 2}
+  _archerPrefabs: {fileID: 11400000, guid: e44ca992bcdca0e419d8757cd7e6740c, type: 2}
+  _uiPrefabs: {fileID: 11400000, guid: 044d8500a643b8a40a0ae3f6fdf29341, type: 2}
+  _magicContainer: {fileID: 11400000, guid: f506a21061748ed408334d20417d2d7f, type: 2}
+  _levels: {fileID: 11400000, guid: 3014ae6379f48fe4aaf71b50a615b196, type: 2}
+  _sounds: {fileID: 11400000, guid: e04436fc513c8d24e8217835a502f731, type: 2}
+  _startLevel: 1

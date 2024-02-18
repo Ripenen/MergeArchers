@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e160695e62d1405e9904d2fa6898f294, type: 3}
+  m_Name: Barbarians
+  m_EditorClassIdentifier: 
+  _archersPrefabsByLevels:
+  - {fileID: 7842590948838978800, guid: e4816b0a39fe47a4d8f894b075e99bf9, type: 3}
+  - {fileID: 7842590948838978800, guid: 90273d3a47f9b84478c570fadf6f0fa7, type: 3}
+  - {fileID: 7842590948838978800, guid: 24ef1c2ec1c6ca34eacea7dc1a5c3a53, type: 3}
+  - {fileID: 7842590948838978800, guid: 53c962727c8aa6c40865977b0bfd73ee, type: 3}

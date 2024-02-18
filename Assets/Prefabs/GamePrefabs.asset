@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 540b3e71b14b4890b1856310ed87a3bc, type: 3}
+  m_Name: GamePrefabs
+  m_EditorClassIdentifier: 
+  PlayerTowers:
+  - {fileID: 263992269697832298, guid: 6ea3e613cdbf2b64ea49af134bd5f370, type: 3}
+  - {fileID: 263992269697832298, guid: 900dc9561a94ce34ea15978ca5bb8bc2, type: 3}
+  - {fileID: 263992269697832298, guid: 305eb10c09e22e148b1362cd0ba6bc40, type: 3}
+  - {fileID: 263992269697832298, guid: 613c4e2eda54f4441a49279890f3607a, type: 3}
+  - {fileID: 263992269697832298, guid: 8103f3d6e2bbd9f4697fceb1bd3f1045, type: 3}
+  Confetti: {fileID: 19854642, guid: 4de72d65c2293424cbe6461a89fe2997, type: 3}
+  ChestsTower: {fileID: 2588922471845254289, guid: b086aa222aff1e145a69f94ef08ca427, type: 3}
+  Map: {fileID: 4957703152656220062, guid: 0b309ef6201340543b5a6bf8880031e6, type: 3}

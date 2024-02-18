@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a58d89beb24b42bf0cf71f2374d1b2, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  _levelsPrefabs:
+  - {fileID: 7299023670067765939, guid: c8691e8682e646b4b8e7b3d0ddaef3a9, type: 3}
+  - {fileID: 7299023670067765939, guid: 6ecea639208e7fc488b9a5a35f5e4a4b, type: 3}
+  - {fileID: 7299023670067765939, guid: 0d50ac9ec5b8bf44da0ee2f6f8b88dad, type: 3}
+  - {fileID: 7299023670067765939, guid: 10e46d31511d73d48bde1d1ada201211, type: 3}
+  - {fileID: 7299023670067765939, guid: 28e420a1b26986040ac294ef1b75a202, type: 3}
+  - {fileID: 7299023670067765939, guid: ab80826b0ae51f842bad462f49e67bc4, type: 3}
+  - {fileID: 7299023670067765939, guid: aaf844accf0ca7747985e1ffe468a2d4, type: 3}
+  - {fileID: 7299023670067765939, guid: e606eeb1e84629b4cbb0b6d4d33cb285, type: 3}
+  - {fileID: 7299023670067765939, guid: 356775f730705d643ae2c22587229159, type: 3}
+  - {fileID: 7299023670067765939, guid: 3492df81af9b9d242a35d8c73fb83cfb, type: 3}
+  - {fileID: 7299023670067765939, guid: 6bc944f2557d5204c80a4a44869b28ac, type: 3}
+  - {fileID: 7299023670067765939, guid: 961b72d88637e92408c5cee0a3053463, type: 3}
+  - {fileID: 7299023670067765939, guid: ad35f94dc59727a4db409a0286802945, type: 3}
+  - {fileID: 7299023670067765939, guid: 7dcdb6bb92b2b054c98ff4178a2467c3, type: 3}
+  - {fileID: 7299023670067765939, guid: b46cc78dbd753f74e95678e091742745, type: 3}
+  - {fileID: 7299023670067765939, guid: 47fc92be7fa47ba43a449f23f2c362d0, type: 3}
+  - {fileID: 7299023670067765939, guid: 22e49f82b2d147e409d4b1f2e907dcbc, type: 3}
+  - {fileID: 7299023670067765939, guid: eede7b18b1a05b64cb814b8911de7883, type: 3}
+  - {fileID: 7299023670067765939, guid: 664e0691fe619a443b46d5c205077cff, type: 3}
+  - {fileID: 7299023670067765939, guid: f4522a772ff0d8c4c9b7ba95979daedd, type: 3}
+  _gameFieldTemplate: {fileID: -6789738569683544553, guid: 415e630d345d9324383380cca2d947ad, type: 3}
+  _archers: {fileID: 11400000, guid: baa10948147bb8240a7596024974f11f, type: 2}

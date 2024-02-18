@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b92e0e9384a43018b4d90ed210f3040, type: 3}
+  m_Name: UiPrefabs
+  m_EditorClassIdentifier: 
+  CanvasTemplate: {fileID: 5613292053186910658, guid: d94b95624029fcd4e824fd21b3b833c5, type: 3}
+  PlayerAimView: {fileID: 7539109389960424220, guid: 071e396f1a1922a4f978bdc2417da5ea, type: 3}
+  InGameView: {fileID: 2793468009885106366, guid: d5501005d3e33814981c7504ea2dbf7d, type: 3}
+  LoseView: {fileID: 8134252017964863838, guid: 012aeb4a545044345bc3edbf88dfedaf, type: 3}
+  WinView: {fileID: 8763210729526254102, guid: 3fdb11461f2d92242bbaaee5f9cdee4a, type: 3}
+  TutorialView: {fileID: 7569312228243965262, guid: 572483f11266e9543bc7d97f7f9d2649, type: 3}
+  MergeView: {fileID: 8724504492491179268, guid: 234b33f7007f2054bb5a5247be7360e7, type: 3}
+  SkinsView: {fileID: 4004311498824254476, guid: e0efe9810c56f2e4a986eed4e0ff78d9, type: 3}
+  ChestsView: {fileID: 3148330237306529722, guid: 69017e0b47e70c04489a28bce93ca92e, type: 3}
+  ShopView: {fileID: 2007418963857780497, guid: 6a2555977816c9f4b924085c31dda051, type: 3}
+  MagicShop: {fileID: 2764596335822227563, guid: 34029ef2578a86f439b88bc712971af6, type: 3}

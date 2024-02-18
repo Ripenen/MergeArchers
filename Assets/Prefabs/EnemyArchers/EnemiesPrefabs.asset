@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e160695e62d1405e9904d2fa6898f294, type: 3}
+  m_Name: EnemiesPrefabs
+  m_EditorClassIdentifier: 
+  _archersPrefabsByLevels:
+  - {fileID: 7842590948838978800, guid: 673deb5639a41eb4296cfe74629418e5, type: 3}
+  - {fileID: 7842590948838978800, guid: cdc8815badc4fea4db38efdd5a570958, type: 3}
+  - {fileID: 7842590948838978800, guid: 7035fae5fcbd1694aa7b544b046f4e82, type: 3}
+  - {fileID: 7842590948838978800, guid: f9dae43e84e0a864f8f541fcfb622373, type: 3}
+  - {fileID: 7842590948838978800, guid: 4c5f863e41b6f6a4ebe6f01d6a551d52, type: 3}

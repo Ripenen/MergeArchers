@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151233407b97485ca078c25544fa0a32, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  Explosion: {fileID: 8300000, guid: c0a5f1a95b5cb1c4eb02a623a38cbef8, type: 3}
+  Win: {fileID: 8300000, guid: 9a3761c73b98df04b99aa519b771d3da, type: 3}
+  Lose: {fileID: 8300000, guid: e763804e9cfbd6d459c65dfce42e6e47, type: 3}
+  BowCharge: {fileID: 8300000, guid: 9cb8c34a1ea07d4438a7a2ec84886c42, type: 3}
+  Hit: {fileID: 8300000, guid: 113b6d4f408dd5243b3e2c51bcfcb870, type: 3}
+  Death: {fileID: 8300000, guid: 00b34644d4f12cf4e80f969bdced8f86, type: 3}
+  Background: {fileID: 8300000, guid: b567716ddc4f0924e816a7c45256a5c5, type: 3}
+  BombSelect: {fileID: 8300000, guid: 291105e1597bc8c4784909621e7c6400, type: 3}
+  ArcherUpgrade: {fileID: 8300000, guid: dff5bfb4148b47e45a07994b1af9e89d, type: 3}
+  GunShoot: {fileID: 8300000, guid: 50bb6ad27dc8c4346ba5b745857c4361, type: 3}
+  Click: {fileID: 8300000, guid: ecd947a7b1af60844a036bff839c0536, type: 3}
+  Shoot: {fileID: 8300000, guid: 13b8de85868fd3740ba019e55454a61f, type: 3}
+  HandThrowShoot: {fileID: 8300000, guid: ac3def1bf95439d42934f3394e9cf1cc, type: 3}
+  CreateUnit: {fileID: 8300000, guid: 8efc6cca301c2e84585f4d916dd03ae4, type: 3}
+  SelectUnit: {fileID: 8300000, guid: 879e21ef6ec222a468013bad45d5e1e6, type: 3}
+  KeyUp: {fileID: 8300000, guid: e31ae6949286ebd479adcf5402bb63b4, type: 3}
+  Heal: {fileID: 8300000, guid: fc36c7e7140ee1542a7e120ab4b56d67, type: 3}
+  Meteor: {fileID: 8300000, guid: ca2612a92619b6046a911f50043bc975, type: 3}
+  Poison: {fileID: 8300000, guid: 2fbf201cdb7dcae4abb5c832aef9ae49, type: 3}

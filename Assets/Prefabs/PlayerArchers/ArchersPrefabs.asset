@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e160695e62d1405e9904d2fa6898f294, type: 3}
+  m_Name: ArchersPrefabs
+  m_EditorClassIdentifier: 
+  _archersPrefabsByLevels:
+  - {fileID: 7842590948838978800, guid: a2f47bc6ff648c4459c260affe615629, type: 3}
+  - {fileID: 7842590948838978800, guid: efc38ee358b4d50478c3ba366d8408f6, type: 3}
+  - {fileID: 7842590948838978800, guid: eb9436c4fbbadc3478608b40773b23b9, type: 3}
+  - {fileID: 7842590948838978800, guid: 3fc6212745c163446ac4d8cc38655797, type: 3}
+  - {fileID: 7842590948838978800, guid: 43fc477432f02b64b93a47feffd714ce, type: 3}
+  - {fileID: 7842590948838978800, guid: 7fde491300197b6439871c3f8a0bf354, type: 3}
+  - {fileID: 7842590948838978800, guid: 174901e66606439479e69bacdbdd0d09, type: 3}
+  - {fileID: 7842590948838978800, guid: 6f074576ea4079b45bae7de2b3dc3b9c, type: 3}
